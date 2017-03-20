@@ -1,0 +1,16 @@
+{
+    "width": 2400, 
+    "camera": "v2 sony e 16mm f2.8 1597 2400 perspective 0.6666", 
+    "projection_type": "perspective", 
+    "orientation": 1, 
+    "focal_ratio": 0.6666666666666666, 
+    "make": "SONY", 
+    "gps": {
+        "latitude": 48.0858725, 
+        "altitude": 618.975, 
+        "longitude": 11.196235100042571
+    }, 
+    "model": "E 16mm F2.8", 
+    "capture_time": 1306155831.0, 
+    "height": 1597
+}

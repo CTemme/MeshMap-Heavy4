@@ -1,0 +1,13 @@
+{
+    "v2 sony e 16mm f2.8 1597 2400 perspective 0.6666": {
+        "focal_prior": 0.6666666666666666, 
+        "width": 2400, 
+        "k1": 0.0, 
+        "k2": 0.0, 
+        "k1_prior": 0.0, 
+        "k2_prior": 0.0, 
+        "projection_type": "perspective", 
+        "focal": 0.6666666666666666, 
+        "height": 1597
+    }
+}
